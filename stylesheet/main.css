@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+}
+
+.page {
+background-color:palegreen;
+}
+
+.header {
+background-color:whitesmoke;
+text-transform: uppercase;
+
+}
+
+.form {
+background-color: pink;
+
+
+}
